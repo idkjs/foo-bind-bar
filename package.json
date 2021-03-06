@@ -12,6 +12,4 @@
     "devDependencies": {
         "@leeor/rescript-ppx-let": "^0.1.13",
         "bs-platform": "^8.4.2"
-    },
-    "ppx-flags": [ [ "@leeor/rescript-ppx-let/ppx.exe", "-as-ppx" ] ]
-}
+    }}
