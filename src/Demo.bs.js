@@ -264,8 +264,19 @@ var Example_with_mapn = {
   _x: _x
 };
 
+console.log("Example_with_mapn!");
+
+console.log(_x);
+
+var xta = 2;
+
+console.log("Example_without_open!");
+
+console.log(xta + 1 | 0);
+
 exports.Monad_example = Monad_example;
 exports.Applicative_example = Applicative_example;
 exports.Example_without_open = Example_without_open;
 exports.Example_with_mapn = Example_with_mapn;
+exports.xta = xta;
 /*  Not a pure module */
